@@ -1,0 +1,8 @@
+.gtLive {
+    color: #f17920;
+    font-weight: 700;
+}
+.afterLive, .beforeLive {
+    padding: 10px;
+    background-color: #eaf8d2;
+}
